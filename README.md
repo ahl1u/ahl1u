@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-I'm a sophomore at UNC, majoring in Computer Science and Business. 
 
-I'm passionate about software development, am delving into AI-driven projects and have hands-on experience in Binary Expansion Testing and Sentiment Analysis using ML models. Explore my repository to see the projects and research I've worked on!
-<!--
 **ahl1u/ahl1u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
